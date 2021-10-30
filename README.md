@@ -4,8 +4,8 @@
 Just a yea discord developer! :DDD.
 ```
 
-- 🌱 I’m currently learning everything 🤣
-- 💎 Making everything.
+- 🌱 Daily working on Projects
+- 💎 Making everything even better.
 - 📣 Projects made by me: https://youtube.com/mrtasi
 - ⚡ Fun fact: I was very bad in coding lol<br />
 
