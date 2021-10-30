@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```js
-Just a yea discord developer! :DDD.
+Just a discord developer! :DDD.
 ```
 
 - 🌱 Daily working on Projects
