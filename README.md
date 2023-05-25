@@ -5,8 +5,7 @@ Just a discord developer! :DDD.
 ```
 
 - 🌱 Daily working on Projects
-- 💎 Making everything even better.
-- 📣 Projects made by me: https://youtube.com/mrtasi
+- 💎 AzyBot (Fully Ticket Tool up-to-date)
 - ⚡ Fun fact: I was very bad in coding lol<br />
 
 ### Languages and Tools:
